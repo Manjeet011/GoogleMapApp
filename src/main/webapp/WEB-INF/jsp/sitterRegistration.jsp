@@ -300,6 +300,6 @@
         }
     </script>
 
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCFGhHTFklBNiQGjvV3h03rc_vN995emG0&libraries=places&callback=initMap"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=EnterKey&libraries=places&callback=initMap"></script>
 </body>
 </html>
