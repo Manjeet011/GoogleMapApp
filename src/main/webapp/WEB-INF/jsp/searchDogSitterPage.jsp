@@ -335,6 +335,6 @@
     }
 
 </script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCFGhHTFklBNiQGjvV3h03rc_vN995emG0&libraries=places&callback=initMap"></script>0
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=EnterYourKeyToAccessIt&libraries=places&callback=initMap"></script>0
 </body>
 </html>
